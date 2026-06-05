@@ -1,6 +1,6 @@
 # Decision-Making Python Projects
 
-This repository contains four beginner Python programs to practice decision-making using `if`, `elif`, and `else` statements and show how they can be used to control program flow and make decisions based on user input.
+This repository contains four beginner Python programs to practice decision-making using `if`, `elif`, and `else` statements and shows how they can be used to control program flow and make decisions based on user input.
 
 ---
 
